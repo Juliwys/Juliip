@@ -1,9 +1,9 @@
 :root {
-  --white : #ffffff;
+  --white : #5c409e;
   --grey: #000000a2;
   --black : #ffffff81;
   --black-s : #000000;
-  --purple : #ffffff9f;
+  --purple : #9b77f19f;
 }
 
 *,
@@ -13,7 +13,7 @@
 }
 body {
   font-family: 'PIXELADE', sans-serif;
-  background-image: url(images/lucy2.gif);
+  background-image: url(images/grabadora.gif);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
